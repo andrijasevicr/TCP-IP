@@ -1,0 +1,11 @@
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\bin\Debug\JSONMessageExchangeClient.exe.config
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\bin\Debug\JSONMessageExchangeClient.exe
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\bin\Debug\JSONMessageExchangeClient.pdb
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\bin\Debug\Newtonsoft.Json.dll
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\bin\Debug\Newtonsoft.Json.xml
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\obj\Debug\JSONMessageExchangeClient.csproj.AssemblyReference.cache
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\obj\Debug\JSONMessageExchangeClient.csproj.SuggestedBindingRedirects.cache
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\obj\Debug\JSONMessageExchangeClient.csproj.CoreCompileInputs.cache
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\obj\Debug\JSONMessageExchangeClient.csproj.CopyComplete
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\obj\Debug\JSONMessageExchangeClient.exe
+D:\Master\IKMIP\Komunikacija\JSONMessageExchangeClient\obj\Debug\JSONMessageExchangeClient.pdb
